@@ -32,6 +32,11 @@ section {
   overflow: hidden;
 }
 
+section.flx-center {
+  padding: 30px;
+  height:auto;
+}
+
 section.intro {
   text-align: center;
 }
